@@ -1,0 +1,37 @@
+WIFI Testing:
+
+Configuration:
+
+View the configuration of network interfaces
+Turn a network interface on/off
+check the WLAN regulatory domain
+Set the WLAN regulatory domain
+Turn the power of a wireless interface up/down (too high can be illegal in some countries)
+
+Monitoring
+
+Set a wireless network interface to the monitoring mode
+Set a wireless network interface to the monitoring mode on a specified channel
+Search for WiFi networks within your range
+Monitor a WiFi network to capture handshakes/requests
+
+Cracking
+
+Monitor a WiFi network to capture a WPA/WPA2 4-way handshake
+Deauthenticate clients from a WiFi network
+Start the dictionary attack against a WPA/WPA2 handshake
+
+Followed by some other attack scenerios. which will be included later.
+
+
+Post-Exploitation
+
+Find out how to pipe tcpdump from WiFi Pineapple to Wireshark
+Try to access the wireless access point's web interface. Search the Internet for default paths and credentials.
+Start scanning/enumerating the network.
+
+
+Some Links for Router part:
+https://www.qacafe.com/resources/a-quick-guide-to-wifi-router-testing/
+https://www.pcmag.com/about/how-we-test-wireless-routers
+https://routersecurity.org/testrouter.php
